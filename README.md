@@ -60,14 +60,14 @@
   > - [좌표 계산기](https://github.com/O-O-wl/swift-coordinate)
   > - [JSON 문자열 분석기](https://github.com/O-O-wl/swift-jsonparser)
   > - [카드 게임](https://github.com/O-O-wl/swift-cardgame)
-  > - [음료 자판기](https://github.com/O-O-wl/swift--vendingmahcine)
+  > - [음료 자판기](https://github.com/O-O-wl/swift--vendingmachine)
   >
   > ---
   >
   > iOS Project
   >
   > - [포토프레임 앱](https://github.com/O-O-wl/swift-photoframe)
-  > - [음료자판기 앱](https://github.com/O-O-wl/swift--vendingmahcineapp)
+  > - [음료자판기 앱](https://github.com/O-O-wl/swift--vendingmachineapp)
 
   
 
