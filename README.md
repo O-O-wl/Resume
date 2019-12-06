@@ -113,7 +113,7 @@
   > - #####  [애플 기본 날씨 카피앱](https://github.com/O-O-wl/WeatherEverywhere)
   >
   > - #####  <img width="242" alt="스크린샷 2019-12-06 오후 8 08 13" src="https://user-images.githubusercontent.com/39197978/70318791-33054100-1864-11ea-9cfd-d64f364256b2.png">
-  >   <img width="242" alt="스크린샷 2019-12-06 오후 8 08 30" src="https://user-images.githubusercontent.com/39197978/70318793-33054100-1864-11ea-83b0-83ac8b2e3cdc.png"
+  >   <img width="242" alt="스크린샷 2019-12-06 오후 8 08 30" src="https://user-images.githubusercontent.com/39197978/70318793-33054100-1864-11ea-83b0-83ac8b2e3cdc.png">
   >
   > - #####  DarkSky API 활용
   >
