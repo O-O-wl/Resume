@@ -104,30 +104,26 @@
 
 - ### Other
 
-  - #### [작은고양이톡](https://github.com/smallcattalk/small-cat-talk)
+  > - #####  [작은고양이톡](https://github.com/smallcattalk/small-cat-talk)
+  >
+  > - #####  <img width="242" alt="스크린샷 2019-07-21 오전 2 26 53" src="https://user-images.githubusercontent.com/39197978/70318303-174d6b00-1863-11ea-9269-b4c9d0396859.png">
+  >
+  > - #####  <img width="242" alt="스크린샷 2019-06-11 오전 10 18 39" src="https://user-images.githubusercontent.com/39197978/70318386-4532af80-1863-11ea-9d83-cdf07c576aab.png">
+  >
+  > - #####  [애플 기본 날씨 카피앱](https://github.com/O-O-wl/WeatherEverywhere)
+  >
+  > - #####  <img width="242" alt="스크린샷 2019-12-06 오후 8 08 13" src="https://user-images.githubusercontent.com/39197978/70318791-33054100-1864-11ea-9cfd-d64f364256b2.png">
+  >   <img width="242" alt="스크린샷 2019-12-06 오후 8 08 30" src="https://user-images.githubusercontent.com/39197978/70318793-33054100-1864-11ea-83b0-83ac8b2e3cdc.png"
+  >
+  > - #####  DarkSky API 활용
+  >
+  > - #####  °C/°F 온도 모델간의 변환 - computed property 구현
+  >
+  > - #####  여러개의 데이터소스를 소유한 복잡한 `WetherDetailView ` 구현
+  >
+  > - #####  dataSource 분리를 통한 ViewController 경량화
   
-  <img width="242" alt="스크린샷 2019-07-21 오전 2 26 53" src="https://user-images.githubusercontent.com/39197978/70318303-174d6b00-1863-11ea-9269-b4c9d0396859.png">
   
-  <img width="242" alt="스크린샷 2019-06-11 오전 10 18 39" src="https://user-images.githubusercontent.com/39197978/70318386-4532af80-1863-11ea-9d83-cdf07c576aab.png">
-  
-  
-  
-  <br><br>
-  
-  - #### [애플 기본 날씨 카피앱](https://github.com/O-O-wl/WeatherEverywhere)
-  
-    - <img width="242" alt="스크린샷 2019-12-06 오후 8 08 13" src="https://user-images.githubusercontent.com/39197978/70318791-33054100-1864-11ea-9cfd-d64f364256b2.png">
-      <img width="242" alt="스크린샷 2019-12-06 오후 8 08 30" src="https://user-images.githubusercontent.com/39197978/70318793-33054100-1864-11ea-83b0-83ac8b2e3cdc.png">
-  
-    - DarkSky API 활용
-  
-    - °C/°F 온도 모델간의 변환 - computed property 구현
-  
-    - 여러개의 데이터소스를 소유한 복잡한 `WetherDetailView ` 구현
-  
-      - dataSource 분리를 통한 ViewController 경량화
-  
-      
 
 <br><br>
 
