@@ -1,6 +1,12 @@
 # Resume
 
-어제보다 오늘이 나은 개발자
+```
+✨ 어제보다 오늘이 나은 개발자
+```
+
+
+
+
 
 # 이동영
 
@@ -58,11 +64,10 @@
     - GitHub 저장소
         - [https://github.com/O-O-wl/addressbook-app](https://github.com/O-O-wl/addressbook-app)
     - 실행 화면
-
-    ![Resume/_2019-12-25__12.35.39.png](Resume/_2019-12-25__12.35.39.png)
-
-    ![Resume/_2019-12-25__12.37.51.png](Resume/_2019-12-25__12.37.51.png)
-
+- <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.35.39.png">
+    
+<img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.37.51.png">
+    
 - **[iOS앱] 음료수 자판기 앱**
     - 소개
         
@@ -84,9 +89,9 @@
         - [https://github.com/O-O-wl/vendingmachine-app](https://github.com/O-O-wl/vendingmachine-app)
 - 실행 화면
     
-    ![Resume/_2019-12-25__12.32.57.png](Resume/_2019-12-25__12.32.57.png)
+    <img width="500" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.32.57.png">
     
-        ![Resume/_2019-12-25__12.33.08.png](Resume/_2019-12-25__12.33.08.png)
+        <img width="500" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.33.08.png">
     
 - **[iOS앱] 애플 기본 날씨 카피 앱**
     - 소개
@@ -108,11 +113,12 @@
         - [https://github.com/O-O-wl/WeatherEverywhere](https://github.com/O-O-wl/WeatherEverywhere)
 - 실행 화면
     
-    ![Resume/_2019-12-25__12.20.40.png](Resume/_2019-12-25__12.20.40.png)
+    <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.20.40.png">
     
-        ![Resume/_2019-12-25__12.20.43.png](Resume/_2019-12-25__12.20.43.png)
+        <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.20.43.png">
     
 - **[iOS앱] 작은 고양이 톡**
+    
     - 소개
         - 친구와 대화, 미디어 공유가 가능한 채팅 앱(교내 프로젝트)
         - 첫 iOS 앱
@@ -133,12 +139,12 @@
         - JavaScript
     - GitHub 저장소
         
-        - [https://github.com/smallcattalk/small-cat-talk](https://github.com/smallcattalk/small-cat-talk)
-- 실행 화면
-    
-    ![Resume/_2019-06-11__10.png](Resume/_2019-06-11__10.png)
-    
-    ![Resume/chat.png](Resume/chat.png)
+    - [https://github.com/smallcattalk/small-cat-talk](https://github.com/smallcattalk/small-cat-talk)
+    - 실행 화면
+
+        <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-06-11__10.png">
+
+        <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/chat.png">
     
 - **[라이브러리] AttriBeauty**
     - 소개
@@ -178,7 +184,7 @@
                         .align(.center)
                     .apply()
     
-        ![Resume/70379493-aeecaf80-1970-11ea-92c1-8244dd435143.png](Resume/70379493-aeecaf80-1970-11ea-92c1-8244dd435143.png)
+        <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/70379493-aeecaf80-1970-11ea-92c1-8244dd435143.png">
     
 - **[라이브러리] SwiftAction**
     - 소개
@@ -186,38 +192,42 @@
         - Target-Action을 Swifty하게 만들어주는 라이브러리
 - 주요 기능
     
-            // 기존 표현
-            button.addTarget(self,
-            							   action: #selector(changeColorToBlue(_:)),
-            								 for: touchUpInside)
-            
-            @objc 
-            func changeColorToBlue(_ sender: UIButton) {
-            		 sender.backgroundColor = .blue
-        }
-    
+        ```swift
+        // 기존 표현
+        button.addTarget(self,
+        							   action: #selector(changeColorToBlue(_:)),
+        								 for: touchUpInside)
+        
+        @objc 
+        func changeColorToBlue(_ sender: UIButton) {
+    		 sender.backgroundColor = .blue
+    }
+        ```
+        
         - 기존 표현과는 달리 액션 메소드의 구현과 주입이 한곳에서 이루어져 보다 이해하기 쉬운 코드를 작성 가능
         - 클로저를 주입하여 Swift스러운 표현으로 액션을 추가할 수 있게 구현
     - 개발 언어
         
-        - Swift
+    - Swift
     - GitHub 저장소
-    
+        
         - [https://github.com/O-O-wl](https://github.com/O-O-wl/SwiftAction)/SwiftAction
     - 사용법
     
-            @IBOutlet var button: UIButton!
-            
-            // addAction
-            button.addAction(for: .touchUpInside) {
-                   $0.backgroundColor = .blue
-            }
-                   
-            button.addAction(for: .touchDragInside,
-            								 action: buttonDragInside)
+        ```swift
+        @IBOutlet var button: UIButton!
         
-            // removeAction
-            button.removeAction(for: .touchUpInside)
+        // addAction
+        button.addAction(for: .touchUpInside) {
+               $0.backgroundColor = .blue
+        }
+           
+        button.addAction(for: .touchDragInside,
+        								 action: buttonDragInside)
+        
+        // removeAction
+        button.removeAction(for: .touchUpInside)
+        ```
     
 - **[콘솔] 음료수 자판기**
     - 소개
@@ -304,7 +314,7 @@
 
 - **MASH-UP**
 
-    ![Resume/Untitled.png](Resume/Untitled.png)
+    <img width="80" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/Untitled.png">
 
     - 소개
         - 디자이너와 개발자가 함께 성장하는 앱 개발 동아리
