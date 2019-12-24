@@ -151,15 +151,14 @@
       
         - NSAttributedString을 선언적인 방법으로 사용할 수 있게 만들어주는 라이브러리
 - 주요 기능
-  
-        ```swift
-        // 기존 표현
-        demoString.addAttribute(NSAttributedString.Key.foregroundColor,
-        											  value: UIColor.red, 
-        											  range: NSRange(0...4)
-        demoString.addAttribute(NSAttributedString.Key.font,
-    										 value: .boldSystemFont(ofSize: 30))
-        ```
+  ```swift
+    // 기존 표현
+    demoString.addAttribute(NSAttributedString.Key.foregroundColor,
+        					value: UIColor.red, 
+        					range: NSRange(0...4)
+    demoString.addAttribute(NSAttributedString.Key.font,
+    						value: .boldSystemFont(ofSize: 30))
+  ```
         
     - 메소드 체이닝을 활용한 NSAttributedString 표현식 제공
     - `[NSAttributedString.Key: Any]` 보다 타입이 명시적인 방식의 표현식 구현
@@ -173,49 +172,44 @@
     
         - [https://github.com/O-O-wl/AttriBeauty](https://github.com/O-O-wl/AttriBeauty)
     - 사용법
-    
-            @IBOutlet var demoLabel: UILabel!
+        ```swift
+        @IBOutlet var demoLabel: UILabel!
             
-            demoLabel.attributedText = demoLabel.text?
-                        .beautfiy()
-                        .attriBeauty
-                        .fgColor(.blue)
-                        .bgColor(.green).regex("awesome")
-                        .fgColor(.red).range(NSRange(0...4))
+        demoLabel.attributedText = demoLabel.text?
+                    .beautfiy()
+                    .attriBeauty
+                    .fgColor(.blue)
+                    .bgColor(.green).regex("awesome")
+                    .fgColor(.red).range(NSRange(0...4))
                     .font(.boldSystemFont(ofSize: 30))
-                        .align(.center)
+                    .align(.center)
                     .apply()
-    
+       ```
         <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/70379493-aeecaf80-1970-11ea-92c1-8244dd435143.png">
-    
+ 
 - **[라이브러리] SwiftAction**
     - 소개
-      
-        - Target-Action을 Swifty하게 만들어주는 라이브러리
+     + Target-Action을 Swifty하게 만들어주는 라이브러리
 - 주요 기능
-  
-        ```swift
+    ```swift
         // 기존 표현
         button.addTarget(self,
-        							   action: #selector(changeColorToBlue(_:)),
-        								 for: touchUpInside)
+        				 action: #selector(changeColorToBlue(_:)),
+        				 for: touchUpInside)
         
         @objc 
         func changeColorToBlue(_ sender: UIButton) {
         	 sender.backgroundColor = .blue
     }
-        ```
-        
-        - 기존 표현과는 달리 액션 메소드의 구현과 주입이 한곳에서 이루어져 보다 이해하기 쉬운 코드를 작성 가능
-        - 클로저를 주입하여 Swift스러운 표현으로 액션을 추가할 수 있게 구현
-    - 개발 언어
-      
+    ``` 
+    + 기존 표현과는 달리 액션 메소드의 구현과 주입이 한곳에서 이루어져 보다 이해하기 쉬운 코드를 작성 가능
+    + 클로저를 주입하여 Swift스러운 표현으로 액션을 추가할 수 있게 구현
+- 개발 언어  
     - Swift
-    - GitHub 저장소
+- GitHub 저장소
       
-        - [https://github.com/O-O-wl](https://github.com/O-O-wl/SwiftAction)/SwiftAction
+    - [https://github.com/O-O-wl](https://github.com/O-O-wl/SwiftAction)/SwiftAction
     - 사용법
-    
         ```swift
         @IBOutlet var button: UIButton!
         
@@ -264,11 +258,10 @@
       
         - Swift
     - GitHub 저장소
-    
         - [https://github.com/O-O-wl/swift-cardgame](https://github.com/O-O-wl/swift-cardgame)
 - 실행 화면
   
-        ![Resume/_2019-12-25__1.17.36.png](Resume/_2019-12-25__1.17.36.png)
+    ![Resume/_2019-12-25__1.17.36.png](Resume/_2019-12-25__1.17.36.png)
     
 - **[콘솔] JSON 문자열 분석기**
     - 소개
@@ -290,7 +283,7 @@
         - [https://github.com/O-O-wl/swift-jsonparser](https://github.com/O-O-wl/swift-jsonparser)
 - 실행 화면
   
-        ![Resume/_2019-12-25__1.10.12.png](Resume/_2019-12-25__1.10.12.png)
+    ![Resume/_2019-12-25__1.10.12.png](Resume/_2019-12-25__1.10.12.png)
     
 - **[콘솔] 좌표 계산기**
     - 소개
