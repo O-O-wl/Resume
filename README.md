@@ -143,23 +143,26 @@
     - [https://github.com/smallcattalk/small-cat-talk](https://github.com/smallcattalk/small-cat-talk)
     - 실행 화면
 
-        <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-06-11__10.png"><img width="250" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/chat.png">
+        <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-06-11__10.png"><img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/chat.png">
 
 - **[라이브러리] AttriBeauty**
+    
     - 소개
       
         - NSAttributedString을 선언적인 방법으로 사용할 수 있게 만들어주는 라이브러리
 - 주요 기능
   
-            // 기존 표현
-            demoString.addAttribute(NSAttributedString.Key.foregroundColor,
-            											  value: UIColor.red, 
-            											  range: NSRange(0...4)
-            demoString.addAttribute(NSAttributedString.Key.font,
-            										 value: .boldSystemFont(ofSize: 30))
-    
-        - 메소드 체이닝을 활용한 NSAttributedString 표현식 제공
-        - `[NSAttributedString.Key: Any]` 보다 타입이 명시적인 방식의 표현식 구현
+        ```swift
+        // 기존 표현
+        demoString.addAttribute(NSAttributedString.Key.foregroundColor,
+        											  value: UIColor.red, 
+        											  range: NSRange(0...4)
+        demoString.addAttribute(NSAttributedString.Key.font,
+    										 value: .boldSystemFont(ofSize: 30))
+        ```
+        
+    - 메소드 체이닝을 활용한 NSAttributedString 표현식 제공
+    - `[NSAttributedString.Key: Any]` 보다 타입이 명시적인 방식의 표현식 구현
     - 라이브러리
         - inspired by SnapKit
         - inspired by Then
