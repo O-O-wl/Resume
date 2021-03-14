@@ -24,15 +24,16 @@
 > 🎓Education
 
  성공회대학교 컴퓨터 공학과 (2013.03 ~ 2020.02)
+ 
  코드스쿼드 iOS 마스터즈 코스 (2019.04 ~ 2019.12)
 
 > 🤹‍♂️ Skill
 
-Swift
-Cocoa Touch
-RxSwift
-RxCocoa
-ReactorKit
+- Swift
+- Cocoa Touch
+- RxSwift
+- RxCocoa
+- ReactorKit
 
 
 
