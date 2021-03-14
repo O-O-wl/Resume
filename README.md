@@ -77,9 +77,9 @@
 
 - 실행화면
   
-    <img width="463" alt="72683335-db701b80-3b19-11ea-96a7-5ad3f4dab109" src="https://user-images.githubusercontent.com/39197978/111073876-dfcc7480-8523-11eb-8ef0-7f3cd1865d26.png">
-    <img width="463" alt="72683335-db701b80-3b19-11ea-96a7-5ad3f4dab109" src="https://user-images.githubusercontent.com/39197978/111073879-e2c76500-8523-11eb-9864-ed3d8ace38c8.png">
-    <img width="463" alt="72683335-db701b80-3b19-11ea-96a7-5ad3f4dab109" src="https://user-images.githubusercontent.com/39197978/111073881-e3f89200-8523-11eb-84b2-6363f4a940d8.png">
+    <img width="300" alt="72683335-db701b80-3b19-11ea-96a7-5ad3f4dab109" src="https://user-images.githubusercontent.com/39197978/111073876-dfcc7480-8523-11eb-8ef0-7f3cd1865d26.png">
+    <img width="300" alt="72683335-db701b80-3b19-11ea-96a7-5ad3f4dab109" src="https://user-images.githubusercontent.com/39197978/111073879-e2c76500-8523-11eb-9864-ed3d8ace38c8.png">
+    <img width="300" alt="72683335-db701b80-3b19-11ea-96a7-5ad3f4dab109" src="https://user-images.githubusercontent.com/39197978/111073881-e3f89200-8523-11eb-84b2-6363f4a940d8.png">
 
 
 
