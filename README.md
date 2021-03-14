@@ -76,6 +76,10 @@
     [https://github.com/OFU-Crew/dear-world-iOS](https://github.com/OFU-Crew/dear-world-iOS)
 
 - 실행화면
+  ![KakaoTalk_Photo_2021-03-14-16-51-35](https://user-images.githubusercontent.com/39197978/111073777-692f7700-8523-11eb-8be5-c77078850b84.png)
+  ![KakaoTalk_Photo_2021-03-14-16-51-39](https://user-images.githubusercontent.com/39197978/111073779-6a60a400-8523-11eb-89fa-852fdad6bd03.png)
+  ![KakaoTalk_Photo_2021-03-14-16-51-41](https://user-images.githubusercontent.com/39197978/111073780-6af93a80-8523-11eb-9543-a3cd5c80c4ac.png)
+
 
 > **[iOS앱] 애완동물 매니저 🐶**
 
@@ -98,6 +102,7 @@
     [https://github.com/O-O-wl/pet-manager](https://github.com/O-O-wl/pet-manager)
 
 - 실행화면
+    <img width="463" alt="72683335-db701b80-3b19-11ea-96a7-5ad3f4dab109" src="https://user-images.githubusercontent.com/39197978/111073772-659bf000-8523-11eb-9e11-45071fd54f54.png">
 
 
 
