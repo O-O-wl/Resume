@@ -82,9 +82,12 @@
 - 개발기간
     - **2020.01 ~ 2020.02**
 - 소개
+    - 애완동물을 디바이스에 저장하고, 울음소리를 내는 알럿을 노출하는 앱 
 - 개발 범위
     - MVP 아키텍처
     - TDD를 통한 개발과 테스트 가능한 구조 설계
+    - ![스크린샷 2021-03-15 오전 12 11 47](https://user-images.githubusercontent.com/39197978/111073710-08a03a00-8523-11eb-9add-24e186cdaa8a.png)
+    - ![스크린샷 2021-03-15 오전 12 12 57](https://user-images.githubusercontent.com/39197978/111073745-32f1f780-8523-11eb-9c65-6bf705725302.png)
 
 - 개발언어
 
@@ -273,7 +276,7 @@
 
 - **야곰 아카데미**
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7ff471d-2e4b-4d52-a5da-beba932d15b4/_2021-03-14__2.56.55.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7ff471d-2e4b-4d52-a5da-beba932d15b4/_2021-03-14__2.56.55.png)
+![스크린샷 2021-03-15 오전 12 10 54](https://user-images.githubusercontent.com/39197978/111073670-e9a1a800-8522-11eb-8df2-b4948598b0bf.png)
 
     - 소개
     - 활동 기간
