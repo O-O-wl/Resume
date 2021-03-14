@@ -1,6 +1,6 @@
 # Resume
 
-**(Lee, Dong young)**
+**이동영(Lee, Dong young)**
 
 ---
 
@@ -11,7 +11,6 @@
 > ☎️ Contact
 
  010 - 2966 - 1786
----
 
 > GitHub
 
