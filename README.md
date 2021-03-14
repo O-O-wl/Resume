@@ -1,24 +1,42 @@
 # Resume
 
-```
-✨ 어제보다 오늘이 나은 개발자
-```
-
-
-
-
-
-# 이동영
+**(Lee, Dong young)**
 
 ---
 
-### 소개
+> 📧 Email
+ o.o.wl.soft@gmail.com
 
+> ☎️ Contact
+ 010 - 2966 - 1786
+---
+
+> GitHub
+[https://github.com/O-O-wl](https://github.com/O-O-wl)
+
+> ✈️ Career
+ 마이리얼트립 (2020.02 ~ )
+
+> 🎓Education
+ 성공회대학교 컴퓨터 공학과 (2013.03 ~ 2020.02)
+ 코드스쿼드 iOS 마스터즈 코스 (2019.04 ~ 2019.12)
+
+> 🤹‍♂️ Skill
+Swift
+Cocoa Touch
+RxSwift
+RxCocoa
+ReactorKit
+
+
+
+### 소개
 - Swift를 좋아합니다.
-- 읽기 좋은 코드를 작성하기위해 노력합니다.
-- 비슷한 것들을 구분하려 노력합니다.
-- 생각에 대해 이야기를 하는 것을 좋아합니다.
-- 이야기와 공유가 저를 성장시킨다고 믿고 있습니다.
+- 읽기 좋은 코드를 작성하기 위해 노력합니다.
+- 비슷한 것을 구분하려 노력합니다.
+- 코드로 이야기를 하는 코드 리뷰를 좋아합니다.
+- 상황에서의 최선의 선택을 위해 고민합니다.
+- 내가 한 생각에 대해 이야기하는 것을 좋아하고, 이것이 나를 성장시킨다고 믿습니다.
 
 ### 학력
 
@@ -26,8 +44,55 @@
 - 코드스쿼드 iOS 마스터즈 코스
 
 ### 프로젝트
+---
 
-- **[iOS앱] 스토어 앱**
+> **[iOS앱] Dear World 🌍**
+
+- 개발기간
+    - **2020.12 ~ 2021.01**
+- 소개
+    - 코로나 시국에, 편지를 쓰듯이 이야기를 풀고 서로를 응원하고 격려하기 위한 커뮤니티 서비스
+- 개발 범위
+    - 나라별 응원 메시지에 빈도에 따른 색상 변경을 하기위해 Pixel Map draw를 구현했습니다.
+    - Alamofire를 한단계 감싼 Network Layer를 구현했습니다.
+- 라이브러리
+    - ReactorKit
+    - Alamofire
+    - SwiftRichString
+    - SnapKit
+    - Then
+- 개발언어
+
+    Swift
+
+- GitHub 저장소
+
+    [https://github.com/OFU-Crew/dear-world-iOS](https://github.com/OFU-Crew/dear-world-iOS)
+
+- 실행화면
+
+> **[iOS앱] 애완동물 매니저 🐶**
+
+- 개발기간
+    - **2020.01 ~ 2020.02**
+- 소개
+- 개발 범위
+    - MVP 아키텍처
+    - TDD를 통한 개발과 테스트 가능한 구조 설계
+
+- 개발언어
+
+    Swift
+
+- GitHub 저장소
+
+    [https://github.com/O-O-wl/pet-manager](https://github.com/O-O-wl/pet-manager)
+
+- 실행화면
+
+
+
+- **[iOS앱] 스토어 앱 🏬**
     - 소개
         - 배민찬과 동일한 화면 구성을 가진 쇼핑 주문 앱
     - 주요 기능
@@ -45,7 +110,7 @@
     - 실행 화면
         - 
 
-- **[iOS앱] 주소록 앱**
+- **[iOS앱] 주소록 앱 📒**
     - 소개
         - 기본 연락처 앱과 연동 / 검색이 가능한 주소록 앱
     - 주요 기능
@@ -67,7 +132,7 @@
 - <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.35.39.png"><img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.37.51.png">
       
 
-- **[iOS앱] 음료수 자판기 앱**
+- **[iOS앱] 음료수 자판기 앱 🧃**
     - 소개
       
         - 음료수 자판기와 동일한 기능을 하는 앱 구현
@@ -96,7 +161,7 @@
         <img width="500" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.32.57.png">
         <img width="500" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.33.08.png">
     
-- **[iOS앱] 애플 기본 날씨 카피 앱**
+- **[iOS앱] 애플 기본 날씨 카피 앱 🌦**
     - 소개
       
         - 애플 기본 날씨 앱을 참고하여 만든 날씨 앱
@@ -118,114 +183,7 @@
   
     <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.20.40.png"><img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-12-25__12.20.43.png">
     
-- **[iOS앱] 작은 고양이 톡**
-  
-    - 소개
-        - 친구와 대화, 미디어 공유가 가능한 채팅 앱(교내 프로젝트)
-        - 첫 iOS 앱
-    - 주요 기능
-        - 친구 검색 / 추가
-        - 대화상대와의 실시간 채팅
-        - 대화상대와의 사진미디어 공유
-    - 개발 범위
-        - 기간과 시간을 고려하여 라이브러리를 이용했습니다.
-        - NameSpace → Room 에 접속하여, 해당 공간에 접속한 소켓끼리만 통신하게 구현했습니다.
-        - 클라이언트 → 서버로의 요청(이미지 업로드, 채팅 전송)은 HTTP로 요청했습니다
-        - 서버에서 받은 요청을 처리한 후, 동일한 Room에 있는 소켓들에게 이벤트를 emit해여, 양방향 통신을 구현했습니다.
-    - 라이브러리
-        - Alamofire
-        - Socket.io
-    - 개발 언어
-        - Swift
-        - JavaScript
-    - GitHub 저장소
-      
-    - [https://github.com/smallcattalk/small-cat-talk](https://github.com/smallcattalk/small-cat-talk)
-    - 실행 화면
-
-        <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/_2019-06-11__10.png"><img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/chat.png">
-
-- **[라이브러리] AttriBeauty**
-    
-    - 소개
-      
-        - NSAttributedString을 선언적인 방법으로 사용할 수 있게 만들어주는 라이브러리
-- 주요 기능
-  ```swift
-    // 기존 표현
-    demoString.addAttribute(NSAttributedString.Key.foregroundColor,
-        					value: UIColor.red, 
-        					range: NSRange(0...4)
-    demoString.addAttribute(NSAttributedString.Key.font,
-    						value: .boldSystemFont(ofSize: 30))
-  ```
-        
-    - 메소드 체이닝을 활용한 NSAttributedString 표현식 제공
-    - `[NSAttributedString.Key: Any]` 보다 타입이 명시적인 방식의 표현식 구현
-    - 라이브러리
-        - inspired by SnapKit
-        - inspired by Then
-    - 개발 언어
-      
-        - Swift
-    - GitHub 저장소
-    
-        - [https://github.com/O-O-wl/AttriBeauty](https://github.com/O-O-wl/AttriBeauty)
-    - 사용법
-        ```swift
-        @IBOutlet var demoLabel: UILabel!
-            
-        demoLabel.attributedText = demoLabel.text?
-                    .beautfiy()
-                    .attriBeauty
-                    .fgColor(.blue)
-                    .bgColor(.green).regex("awesome")
-                    .fgColor(.red).range(NSRange(0...4))
-                    .font(.boldSystemFont(ofSize: 30))
-                    .align(.center)
-                    .apply()
-       ```
-        <img width="270" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/70379493-aeecaf80-1970-11ea-92c1-8244dd435143.png">
- 
-- **[라이브러리] SwiftAction**
-    - 소개
-     + Target-Action을 Swifty하게 만들어주는 라이브러리
-- 주요 기능
-    ```swift
-        // 기존 표현
-        button.addTarget(self,
-        				 action: #selector(changeColorToBlue(_:)),
-        				 for: touchUpInside)
-        
-        @objc 
-        func changeColorToBlue(_ sender: UIButton) {
-        	 sender.backgroundColor = .blue
-    }
-    ``` 
-    + 기존 표현과는 달리 액션 메소드의 구현과 주입이 한곳에서 이루어져 보다 이해하기 쉬운 코드를 작성 가능
-    + 클로저를 주입하여 Swift스러운 표현으로 액션을 추가할 수 있게 구현
-- 개발 언어  
-    - Swift
-- GitHub 저장소
-      
-    - [https://github.com/O-O-wl](https://github.com/O-O-wl/SwiftAction)/SwiftAction
-    - 사용법
-        ```swift
-        @IBOutlet var button: UIButton!
-        
-        // addAction
-        button.addAction(for: .touchUpInside) {
-               $0.backgroundColor = .blue
-        }
-           
-        button.addAction(for: .touchDragInside,
-        				 action: buttonDragInside)
-        
-        // removeAction
-        button.removeAction(for: .touchUpInside)
-        ```
-    
-- **[콘솔] 음료수 자판기**
+- **[콘솔] 음료수 자판기 🧃**
     - 소개
         - 음료수 자판기와 동일한 기능을 하는 콘솔 프로젝트
     - 주요 기능
@@ -243,7 +201,7 @@
 
     ![Resume/_2019-12-25__1.12.07.png](Resume/_2019-12-25__1.12.07.png)
 
-- **[콘솔] 카드 게임**
+- **[콘솔] 카드 게임 🃏**
     - 소개
       
         - Texas Holdem 규칙에 따르는 카드 게임 콘솔 프로젝트
@@ -263,7 +221,7 @@
   
     ![Resume/_2019-12-25__1.17.36.png](Resume/_2019-12-25__1.17.36.png)
     
-- **[콘솔] JSON 문자열 분석기**
+- **[콘솔] JSON 문자열 분석기 🤖**
     - 소개
       
         - JSON형태의 문자열을 입력받아 분석하는 콘솔 프로젝트
@@ -285,7 +243,7 @@
   
     ![Resume/_2019-12-25__1.10.12.png](Resume/_2019-12-25__1.10.12.png)
     
-- **[콘솔] 좌표 계산기**
+- **[콘솔] 좌표 계산기  📐**
     - 소개
       
         - 좌표를 입력 받은 후, 콘솔 화면에 좌표와 도형, 관련 값을 표시하는 콘솔 프로젝트
@@ -307,6 +265,19 @@
 
 ### 활동
 
+- **야곰 아카데미**
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7ff471d-2e4b-4d52-a5da-beba932d15b4/_2021-03-14__2.56.55.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7ff471d-2e4b-4d52-a5da-beba932d15b4/_2021-03-14__2.56.55.png)
+
+    - 소개
+    - 활동 기간
+        - 2020.11 ~
+    - 활동 내용
+        - 초청 수업
+        - '**붱이**'라는 닉네임의 리뷰어로 활동하고 있습니다.
+            - 코드리뷰 샘플
+                - [https://github.com/yagom-academy/ios-juice-maker/pull/14](https://github.com/yagom-academy/ios-juice-maker/pull/14)
+                - [https://github.com/yagom-academy/ios-bank-manager/pull/4](https://github.com/yagom-academy/ios-bank-manager/pull/4)
 - **MASH-UP**
 
     <img width="80" alt="스크린샷 2019-12-08 오전 4 10 26" src="Resume/Untitled.png">
