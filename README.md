@@ -5,23 +5,29 @@
 ---
 
 > 📧 Email
+
  o.o.wl.soft@gmail.com
 
 > ☎️ Contact
+
  010 - 2966 - 1786
 ---
 
 > GitHub
+
 [https://github.com/O-O-wl](https://github.com/O-O-wl)
 
 > ✈️ Career
+
  마이리얼트립 (2020.02 ~ )
 
 > 🎓Education
+
  성공회대학교 컴퓨터 공학과 (2013.03 ~ 2020.02)
  코드스쿼드 iOS 마스터즈 코스 (2019.04 ~ 2019.12)
 
 > 🤹‍♂️ Skill
+
 Swift
 Cocoa Touch
 RxSwift
